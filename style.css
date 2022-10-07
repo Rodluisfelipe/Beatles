@@ -92,3 +92,42 @@ p{  color: #fff;
     padding-top: 50px;
     padding-bottom: 20px;
 }
+#tienda img{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    display: block;
+    margin: auto;
+}
+#product-one img{
+    width: 400px;
+    height: 400px;
+    padding-left: 100px;
+}
+#product-two img{
+    float: right;
+    display: inline;
+    width: 400px;
+    height: 400px;
+    padding-right: 100px;
+}
+#product-three img{
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+}
+#alert-tienda{
+    display : inline-flex;
+    padding-left: 20px;
+    padding-bottom: 100px;   
+}
+#image-footer{
+    display: block;
+    margin: auto;
+    width: 1600px;
+    height: 800px;
+}
+#alert-footer{
+    text-align: center;
+    margin: auto;
+}
